@@ -1,0 +1,3 @@
+READ ME
+
+Hi my name is TroyDaGamer. I am new to Lua scripting but learning it fast. This is a collect of some of my coding.
